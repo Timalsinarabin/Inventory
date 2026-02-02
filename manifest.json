@@ -1,8 +1,8 @@
 {
     "name": "Inventory",
     "short_name": "Inventory",
-    "start_url": "/inventory/index.html",
-    "scope": "/nventory/",
+    "start_url": "/Inventory/index.html",
+    "scope": "/Inventory/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#2196f3",
